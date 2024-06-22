@@ -1,7 +1,7 @@
-baseURL: https://blog.narokuu.com
+baseURL: https://blog.dustinhallock.com
 
 languageCode: en
-title: "Naro's Blog"
+title: "Dustin's Blog"
 
 # Use Hugo modules to add theme
 module:
@@ -23,7 +23,7 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "Narokuu"
+    title: "Dustin"
     weight: 1
   bn:
     disabled: true
@@ -69,7 +69,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/narokuu/naro-blog
+  gitRepo: https://github.com/narokuu/dustin-blog
   # Default branch of your Git repo
   gitBranch: main
 
