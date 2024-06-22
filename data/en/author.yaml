@@ -1,15 +1,15 @@
 # some information about you
-name: "Dustin"
-nickname: "Dustin"
+name: "Narokuu"
+nickname: "naro"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hello, I'm"
 image: "images/author/naro.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "dustinhallock@gmail.com"
+  #email: "dustinhallock@gmail.com"
   #phone: "N/A"
   #github: narokuu
-  linkedin: "https://www.linkedin.com/in/robertdustinhallock/"
+  #linkedin: "https://www.linkedin.com/in/robertdustinhallock/"
   #researchgate: "N/A"
 
 # some summary about what you do
