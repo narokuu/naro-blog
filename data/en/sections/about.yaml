@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: IT Administrator
+designation: IT Admin
 # your company information
 #company:
 #  name: Example Co.
@@ -19,7 +19,7 @@ designation: IT Administrator
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'Changing Lives Through IT Advancement'
+summary: 'I do Homelab Stuffs'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -28,17 +28,17 @@ socialLinks:
 #  icon: "fas fa-envelope"
 #  url: "example@gmail.com"
 
-# - name: Github
-#   icon: "fab fa-github"
-#   url: "https://www.github.com/narokuu"
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/narokuu"
 
 # - name: discord
 #   icon: "fab fa-discord"
 #   url: "#"
 
-- name: LinkedIn
-  icon: "fab fa-linkedin"
-  url: "https://www.linkedin.com/in/robertdustinhallock/"
+# - name: LinkedIn
+#   icon: "fab fa-linkedin"
+#   url: "#"
 
 #- name: Twitter
 #  icon: "fab fa-twitter"
@@ -61,7 +61,7 @@ socialLinks:
 # For example, you can put link for your resume.
 resourceLinks:
 - title: "My Resume"
-  url: "files/resume.pdf"
+  url: "files/memeking.jpg"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
