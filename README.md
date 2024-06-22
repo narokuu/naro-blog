@@ -1,1 +1,1 @@
-Naro-Blog using Huho with the Toha theme with CloudFlare Pages
+Live Resume using Hugo with the Toha theme with CloudFlare Pages
